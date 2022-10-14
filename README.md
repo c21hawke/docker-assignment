@@ -13,7 +13,7 @@
   docker --version
   ```
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/01.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/01.png) 
  
 ## 02. Docker command to pull an image from docker hub
   
@@ -22,7 +22,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/02.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/02.png) 
   
 ## 03. Docker command to list images
   
@@ -31,7 +31,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/03.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/03.png) 
  
 ## 04. Docker command to run an image 
   
@@ -43,7 +43,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/04.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/04.png) 
   
 ## 05. Docker command to list the running containers
 
@@ -52,7 +52,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/05.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/05.png) 
     
 ## 06. Docker command to start a container
 
@@ -60,7 +60,7 @@
   docker start [container_id]
   ```
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/06.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/06.png) 
     
 ## 07. Docker command to stop a container
 
@@ -69,7 +69,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/07..png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/07..png) 
 
 ## 08. Docker command to restart a container
 
@@ -78,7 +78,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/08..png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/08..png) 
     
 ## 09. Docker command to pause a container
 
@@ -87,7 +87,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/09.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/09.png) 
  
 ## 10. Docker command to unpause a container
 
@@ -96,7 +96,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/10..png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/10..png) 
   
 ## 11. Docker command to remove a container
   
@@ -105,7 +105,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/11.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/11.png) 
 
 ## 12. Docker command to list all images
 
@@ -114,7 +114,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/12.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/12.png) 
 
 ## 13. Docker command to list process running inside the container
 
@@ -123,7 +123,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/13.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/13.png) 
     
 ## 14. Docker command to show differences with image files
   
@@ -131,7 +131,7 @@
   docker diff [container_id]
   ```
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/14.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/14.png) 
     
 ## 15. Docker command to show low-level info in json format
   
@@ -140,7 +140,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/15.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/15.png) 
     
 ## 16. Docker command to show image history (list of ancestors)
   
@@ -149,7 +149,7 @@
   ```
   
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/16.png)
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/16.png)
   
 ## 17. Docker command to rename container name
 
@@ -157,7 +157,27 @@
   docker rename [old_name] [new_name]
   ```
   - ## Screenshot
-    ![Image](https://github.com/c21hawke/docker-assignment-task1/blob/main/images/17.png) 
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/17.png) 
+    
+    
+## TASK - 2
+
+## STEP 01:
+  - Docker command to pull hello-world image from docker hub
+  ```bash
+  docker pull hello-world
+  ```
+  - ## Screenshot
+    ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/18.png) 
+ 
+## STEP 02:
+   - Docker command to run hello-world
+   ```bash
+   docker run hello-world
+   ```
+   
+   - ## Screenshot
+     ![Image](https://github.com/c21hawke/docker-assignment-task1-2/blob/main/images/19.png) 
 
 ## License
 
